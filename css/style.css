@@ -6,3 +6,6 @@
 tei-teiHeader {
   display: none;
 }
+tei-title {
+font-style: italic;
+}
